@@ -1,0 +1,2 @@
+ALTER TABLE topico
+CHANGE total_flash_cards total_flashcards smallint;
